@@ -1,3 +1,4 @@
 Name: Sakthivel M
 Course: Master of Computer Applications (MCA)
 College: Bishop Heber College
+Skills: Python, Java, Web Development 
